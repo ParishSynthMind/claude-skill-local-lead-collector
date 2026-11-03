@@ -1,0 +1,36 @@
+{
+  "area": "Dubai Marina, Dubai Emirate, United Arab Emirates",
+  "search_mode": "radius",
+  "osm_tags": [
+    "amenity=dentist",
+    "healthcare=dentist"
+  ],
+  "features_returned": 7,
+  "unnamed_skipped": 0,
+  "duplicates_merged": 0,
+  "rows_written": 7,
+  "with_website": 3,
+  "with_phone": 1,
+  "with_email": 2,
+  "personal_emails_dropped_from_osm": 0,
+  "email_lookup": {
+    "sites_checked": 1,
+    "blocked_by_robots": 0,
+    "skipped_social_or_map": 0,
+    "fetch_errors": 0,
+    "emails_found": 0,
+    "personal_addresses_dropped": 0,
+    "notes": []
+  },
+  "csv": "(not committed: re-run to get the rows)",
+  "preview": [
+    "Drs. Nicolas & Asp Dental Centers - Marina Walk",
+    "Dentism Dental Polyclinic",
+    "German Dental Clinic and Neuromuscular Clinic",
+    "HEY Dental Clinic",
+    "Polar Bear Dental Clinic",
+    "Sunface Medical Center",
+    "Swedish Dental Clinic"
+  ],
+  "attribution": "Data (c) OpenStreetMap contributors, ODbL. Credit OSM if you share it."
+}

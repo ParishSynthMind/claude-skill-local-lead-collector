@@ -1,0 +1,42 @@
+{
+  "area": "Dubai, Dubai Emirate, United Arab Emirates",
+  "search_mode": "admin area",
+  "osm_tags": [
+    "amenity=dentist",
+    "healthcare=dentist"
+  ],
+  "features_returned": 74,
+  "unnamed_skipped": 3,
+  "duplicates_merged": 3,
+  "rows_written": 23,
+  "with_website": 21,
+  "with_phone": 18,
+  "with_email": 17,
+  "personal_emails_dropped_from_osm": 2,
+  "email_lookup": {
+    "sites_checked": 4,
+    "blocked_by_robots": 0,
+    "skipped_social_or_map": 0,
+    "fetch_errors": 2,
+    "emails_found": 0,
+    "personal_addresses_dropped": 1,
+    "notes": [
+      "familydentalclinic.ae: could not reach familydentalclinic.ae: [Errno 8] nodename nor servname provided, or not known",
+      "pearlspolyclinic.com: could not reach www.pearlspolyclinic.com: [Errno 8] nodename nor servname provided, or not known"
+    ]
+  },
+  "csv": "(not committed: re-run to get the rows)",
+  "preview": [
+    "Bright Way",
+    "Dental Zone",
+    "Digital Implant",
+    "Dr. Joy Dental Clinic",
+    "Drs. Nicolas & Asp Dental Centers - Marina Walk",
+    "Drs. Nicolas & Asp Dental Centers – Springs Souk",
+    "Drs. Nicolas & Asp Dental Centers – Uptown Mirdif",
+    "Family Dental Clinic (DSO)",
+    "German Dental Oasis",
+    "Italian Dental Clinic"
+  ],
+  "attribution": "Data (c) OpenStreetMap contributors, ODbL. Credit OSM if you share it."
+}

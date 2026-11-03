@@ -1,0 +1,16 @@
+{"version": 0.6, "generator": "Overpass API (fixture)", "elements": [
+ {"type": "node", "id": 101, "lat": 25.0801, "lon": 55.1401,
+  "tags": {"amenity": "dentist", "name": "Bright Smile Dental Clinic", "website": "https://www.brightsmile.example",
+           "phone": "+971 4 000 0001", "addr:street": "Harbour Walk", "addr:housenumber": "12", "addr:city": "Sample City"}},
+ {"type": "way", "id": 202, "center": {"lat": 25.0802, "lon": 55.1402},
+  "tags": {"healthcare": "dentist", "name": "Bright Smile Dental", "website": "http://brightsmile.example/",
+           "opening_hours": "Mo-Sa 09:00-21:00"}},
+ {"type": "node", "id": 103, "lat": 25.0850, "lon": 55.1450,
+  "tags": {"amenity": "dentist", "name": "=HYPERLINK(\"http://evil.example\")", "phone": "+971 4 000 0003", "email": "john.owner67@gmail.com"}},
+ {"type": "node", "id": 104, "lat": 25.0860, "lon": 55.1460, "tags": {"amenity": "dentist"}},
+ {"type": "node", "id": 105, "lat": 25.0870, "lon": 55.1470,
+  "tags": {"amenity": "dentist", "name": "Harbour Dental Care", "contact:website": "https://harbourdental.example",
+           "contact:email": "hello@harbourdental.example"}},
+ {"type": "node", "id": 106, "lat": 25.0880, "lon": 55.1480,
+  "tags": {"amenity": "dentist", "name": "Social Teeth", "website": "https://www.instagram.com/socialteeth"}}
+]}

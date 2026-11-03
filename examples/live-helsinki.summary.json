@@ -1,0 +1,47 @@
+{
+  "area": "Helsinki, Helsinki sub-region, Uusimaa, Mainland Finland, Finland",
+  "search_mode": "admin area",
+  "osm_tags": [
+    "amenity=dentist",
+    "healthcare=dentist"
+  ],
+  "features_returned": 72,
+  "unnamed_skipped": 1,
+  "duplicates_merged": 1,
+  "rows_written": 33,
+  "with_website": 33,
+  "with_phone": 12,
+  "with_email": 6,
+  "personal_emails_dropped_from_osm": 3,
+  "email_lookup": {
+    "sites_checked": 12,
+    "blocked_by_robots": 0,
+    "skipped_social_or_map": 0,
+    "fetch_errors": 4,
+    "emails_found": 2,
+    "personal_addresses_dropped": 13,
+    "notes": [
+      "kaikukadunhammaslaakarit.fi: could not reach www.kaikukadunhammaslaakarit.fi: [Errno 8] nodename nor servname provided, or not known",
+      "hammasteknikkovakkila.fi: could not reach www.hammasteknikkovakkila.fi: [Errno 8] nodename nor servname provided, or not known",
+      "mehilainen.fi: HTTP 429 from www.mehilainen.fi",
+      "hammaslaakari24.fi: could not reach hammaslaakari24.fi: [Errno 8] nodename nor servname provided, or not known",
+      "stopped at --max-sites 12"
+    ]
+  },
+  "csv": "(not committed: re-run to get the rows)",
+  "preview": [
+    "Ebeling Hammaslääkärit",
+    "Hammasvelho Hammaslääkäriasema",
+    "Hohde Hietalahti",
+    "Itäväylän Hammaslääkärit",
+    "Kaikukadun hammaslääkärit",
+    "KotiHammas Munkkiniemi",
+    "Kukontorin Hammaslääkärit",
+    "Onni Erikoishammasteknikot Oy",
+    "Oral",
+    "Pihjlajanmäen hammaslääkäriasema",
+    "Pihlajalinna",
+    "PlusTerveys Kallion Hammaslääkäriasema"
+  ],
+  "attribution": "Data (c) OpenStreetMap contributors, ODbL. Credit OSM if you share it."
+}
